@@ -2,17 +2,19 @@
 
 ## 📌 Sobre o projeto
 
-Projeto desenvolvido em HTML com o objetivo de praticar a inserção e reprodução de vídeos em páginas web, utilizando recursos nativos do HTML.
+Projeto desenvolvido em HTML com o objetivo de praticar a inserção e reprodução de vídeos em páginas web, utilizando recursos nativos do HTML e estilização com CSS interno.
 
 ## 🛠️ Tecnologias utilizadas
 
 * HTML5
+* CSS3 (interno)
 
 ## 🎯 Funcionalidades
 
 * Reprodução de vídeos locais
 * Incorporação de vídeos externos
 * Uso de controles nativos de vídeo
+* Organização visual com CSS
 
 ## 📷 Preview
 
@@ -35,6 +37,7 @@ Neste projeto pratiquei:
 * Uso de `<source>` para múltiplos formatos
 * Incorporação de vídeos com `<iframe>`
 * Boas práticas de HTML
+* Aplicação de CSS interno
 
 ## 👨‍💻 Autor
 
